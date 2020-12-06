@@ -134,3 +134,5 @@ E:\My_Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 E:\My_Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.dll
 E:\My_Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
 E:\My_Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+E:\My_Projects\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\My_Projects\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

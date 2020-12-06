@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vdi3iQNpB7mogdZ+WIMYXzKWyh7HtZz0B+zx3ibLNKjRHuWmloPTMWFqGp8/vaMtJ/1d2dEhQRXQ6OWEyEvR3Q==",
+  "dgSpecHash": "ib6M4qP3UZdJxN1KBCO5aqhY5aDjcX7XYpN4ISNeCT1WwanYsuhcTbVZ6XxDzF7/ZseUNz5voqJ2kygIG94THQ==",
   "success": true,
   "projectFilePath": "E:\\My_Projects\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\saikr\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\saikr\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\saikr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\saikr\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\saikr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
