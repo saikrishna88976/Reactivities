@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Reactivities\\API\\API.csproj": {}
+    "E:\\My_Projects\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Reactivities\\API\\API.csproj": {
+    "E:\\My_Projects\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "E:\\My_Projects\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Reactivities\\API\\API.csproj",
+        "projectPath": "E:\\My_Projects\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
-        "outputPath": "c:\\Reactivities\\API\\obj\\",
+        "outputPath": "E:\\My_Projects\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "c:\\Reactivities\\Application\\Application.csproj"
+              "E:\\My_Projects\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "E:\\My_Projects\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "c:\\Reactivities\\Application\\Application.csproj": {
+    "E:\\My_Projects\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\My_Projects\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "E:\\My_Projects\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
-        "outputPath": "c:\\Reactivities\\Application\\obj\\",
+        "outputPath": "E:\\My_Projects\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,11 +107,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj"
               },
-              "c:\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\Reactivities\\Persistence\\Persistence.csproj"
+              "E:\\My_Projects\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\My_Projects\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "c:\\Reactivities\\Domain\\Domain.csproj": {
+    "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
-        "outputPath": "c:\\Reactivities\\Domain\\obj\\",
+        "outputPath": "E:\\My_Projects\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,14 +198,14 @@
         }
       }
     },
-    "c:\\Reactivities\\Persistence\\Persistence.csproj": {
+    "E:\\My_Projects\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\My_Projects\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "E:\\My_Projects\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
-        "outputPath": "c:\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "E:\\My_Projects\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\My_Projects\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
