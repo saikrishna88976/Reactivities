@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UQaMduR6JULQDUJkDepxdWhiBlLwXLz0gIR7yQXIvmlfHu0yra/8QAqwNW96HOAx1MTfr5wLa/4vKXXW/q43fw==",
+  "dgSpecHash": "CLA1b/upQb9zGp/X9kBxqky8umlK6Zm95aMD+lp+19yMhq7D2qv9zNyI35oypJCyZAu82J2pOlLkggXJz7grug==",
   "success": true,
   "projectFilePath": "E:\\My_Projects\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saikr\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\saikr\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
+    "C:\\Users\\saikr\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
+    "C:\\Users\\saikr\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.0\\fluentvalidation.dependencyinjectionextensions.9.5.0.nupkg.sha512",
     "C:\\Users\\saikr\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\saikr\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\saikr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

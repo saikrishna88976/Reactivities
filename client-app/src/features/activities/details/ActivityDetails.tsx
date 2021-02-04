@@ -3,6 +3,7 @@ import React, { useContext, useEffect } from "react";
 import { RouteComponentProps } from "react-router-dom";
 import { Grid } from "semantic-ui-react";
 import { LoadingComponent } from "../../../app/layout/LoadingComponent";
+import NotFound from "../../../app/layout/NotFound";
 import ActivityStore from "../../../app/stores/ActivityStore";
 import ActivityDetailsChat from "./ActivityDetailsChat";
 import ActivityDetailsHeader from "./ActivityDetailsHeader";
@@ -22,10 +23,14 @@ const ActivityDetails: React.FC<RouteComponentProps<DetailParams>> = ({
 
   useEffect(() => {
     loadActivity(match.params.id);
-  }, [loadActivity, match.params.id]);
+  }, [loadActivity, match.params.id, history]);
 
-  if (loadingInitial || !activity) {
+  if (loadingInitial) {
     return <LoadingComponent content="Loading activity..." />;
+  }
+
+  if (!activity) {
+    return <h2>Not Found</h2>;
   }
 
   return (
