@@ -5930,11 +5930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My_Projects\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "e:\\My_Projects\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\My_Projects\\Reactivities\\API\\API.csproj",
+      "projectPath": "e:\\My_Projects\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
-      "outputPath": "E:\\My_Projects\\Reactivities\\API\\obj\\",
+      "outputPath": "e:\\My_Projects\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5951,8 +5951,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\My_Projects\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "E:\\My_Projects\\Reactivities\\Application\\Application.csproj"
+            "e:\\My_Projects\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "e:\\My_Projects\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
