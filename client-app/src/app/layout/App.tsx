@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import { Container } from "semantic-ui-react";
-import NavBar from "../../features/NavBar";
+import NavBar from "../../features/nav/NavBar";
 import { observer } from "mobx-react-lite";
 import {
   Route,

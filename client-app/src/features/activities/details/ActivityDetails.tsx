@@ -3,7 +3,6 @@ import React, { useContext, useEffect } from "react";
 import { RouteComponentProps } from "react-router-dom";
 import { Grid } from "semantic-ui-react";
 import { LoadingComponent } from "../../../app/layout/LoadingComponent";
-import NotFound from "../../../app/layout/NotFound";
 import ActivityStore from "../../../app/stores/ActivityStore";
 import ActivityDetailsChat from "./ActivityDetailsChat";
 import ActivityDetailsHeader from "./ActivityDetailsHeader";
